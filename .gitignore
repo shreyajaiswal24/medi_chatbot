@@ -1,0 +1,23 @@
+# Environment
+.env
+*.env
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+*:Zone.Identifier
+.DS_Store
+Thumbs.db
+
+# Pipenv
+*.lock
